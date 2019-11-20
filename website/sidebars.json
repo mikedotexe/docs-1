@@ -37,6 +37,7 @@
     "BECOME A VALIDATOR": [
       "validator/staking-overview",
       "validator/staking",
+      "validator/keys",
       "validator/validator-faq"
     ],
     "ASSEMBLYSCRIPT RUNTIME (NEAR-RUNTIME-TS)": [
